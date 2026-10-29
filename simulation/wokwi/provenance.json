@@ -1,0 +1,12 @@
+{
+  "source": "https://wokwi.com/projects/479154932505587713",
+  "downloaded": "2026-10-28",
+  "files": {
+    "wokwi-project.txt": "0128c86c77d1ee18b7e2f447b20a0abafbb1cbb2713a67b8b5e8b1f53a0ad8dc",
+    "sketch.ino": "5d76c3ed442f16e65d3b64d07f17c8897e73e5bb8919c7afd678db2c237f18d1",
+    "diagram.json": "eb4fc250df76d57ec9b4916f5b2e2b432c3e8708974a1e4952b6a90726849835",
+    "libraries.txt": "2f899b569a074e356ab08d19156c9bd5c7e8fd9438c2f6173d92ade6d20d1710"
+  },
+  "arduino_sketch_identical_to_wokwi": true,
+  "source_modified": false
+}

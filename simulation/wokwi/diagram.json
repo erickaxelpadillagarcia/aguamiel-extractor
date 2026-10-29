@@ -1,0 +1,84 @@
+{
+  "version": 1,
+  "author": "Extractor de aguamiel - control supervisado",
+  "editor": "wokwi",
+  "parts": [
+    { "type": "wokwi-arduino-nano", "id": "nano", "top": 180, "left": 80, "attrs": {} },
+    {
+      "type": "wokwi-pushbutton",
+      "id": "start",
+      "top": 332.6,
+      "left": -211.2,
+      "attrs": { "color": "green", "label": "START", "key": "S" }
+    },
+    {
+      "type": "wokwi-pushbutton",
+      "id": "stop",
+      "top": 480,
+      "left": -210,
+      "attrs": { "color": "red", "label": "STOP", "key": "X" }
+    },
+    { "type": "wokwi-lcd1602", "id": "lcd", "top": 15, "left": 380, "attrs": { "pins": "i2c" } },
+    { "type": "wokwi-led", "id": "green", "top": 330, "left": 350, "attrs": { "color": "green" } },
+    { "type": "wokwi-led", "id": "red", "top": 460, "left": 350, "attrs": { "color": "red" } },
+    {
+      "type": "wokwi-resistor",
+      "id": "rg",
+      "top": 330,
+      "left": 270,
+      "attrs": { "value": "1000" }
+    },
+    {
+      "type": "wokwi-resistor",
+      "id": "rr",
+      "top": 460,
+      "left": 270,
+      "attrs": { "value": "1000" }
+    },
+    {
+      "type": "wokwi-relay-module",
+      "id": "relay",
+      "top": 240,
+      "left": 650,
+      "attrs": { "transistor": "pnp" }
+    },
+    {
+      "type": "wokwi-led",
+      "id": "motor",
+      "top": 340,
+      "left": 950,
+      "attrs": { "color": "blue", "label": "BOMBA 12V (indicador simulado)" }
+    },
+    {
+      "type": "wokwi-resistor",
+      "id": "rm",
+      "top": 340,
+      "left": 875,
+      "attrs": { "value": "1000" }
+    }
+  ],
+  "connections": [
+    [ "nano:4", "start:1.l", "green", [] ],
+    [ "start:2.l", "nano:GND.1", "black", [] ],
+    [ "nano:3", "stop:1.l", "orange", [] ],
+    [ "stop:2.l", "nano:GND.1", "black", [] ],
+    [ "nano:6", "rg:1", "green", [] ],
+    [ "rg:2", "green:A", "green", [] ],
+    [ "green:C", "nano:GND.1", "black", [] ],
+    [ "nano:7", "rr:1", "red", [] ],
+    [ "rr:2", "red:A", "red", [] ],
+    [ "red:C", "nano:GND.1", "black", [] ],
+    [ "nano:A4", "lcd:SDA", "blue", [] ],
+    [ "nano:A5", "lcd:SCL", "purple", [] ],
+    [ "nano:5V", "lcd:VCC", "red", [] ],
+    [ "nano:GND.1", "lcd:GND", "black", [] ],
+    [ "nano:5V", "relay:VCC", "red", [] ],
+    [ "nano:GND.1", "relay:GND", "black", [] ],
+    [ "nano:5V", "relay:COM", "red", [] ],
+    [ "rm:2", "motor:A", "blue", [] ],
+    [ "motor:C", "nano:GND.1", "black", [] ],
+    [ "nano:5", "relay:IN", "orange", [] ],
+    [ "rm:1", "relay:NC", "green", [ "v0" ] ]
+  ],
+  "dependencies": {}
+}
