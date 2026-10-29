@@ -1,0 +1,74 @@
+Archivo,Decision,Motivo
+320.020.000_otlivka.sldprt,reservar_fuera_del_paquete,No referenciado en el ensamblaje activo; no implica pieza ajena al proyecto
+Acrilico.SLDPRT,reservar_fuera_del_paquete,No referenciado en el ensamblaje activo; no implica pieza ajena al proyecto
+BASE DEL GARRAFON.SLDPRT,incluir,Referencia presente en BOM jerarquica
+BOMBA DE WATER.SLDPRT,incluir,Referencia presente en BOM jerarquica
+Carcasa del cinturon.SLDPRT,reservar_fuera_del_paquete,No referenciado en el ensamblaje activo; no implica pieza ajena al proyecto
+Cinturon Derecho.SLDPRT,incluir,Referencia presente en BOM jerarquica
+Cinturon Izquierdo.SLDPRT,incluir,Referencia presente en BOM jerarquica
+DUO.SLDPRT,incluir,Referencia presente en BOM jerarquica
+Ensamblaje 2.SLDASM,reservar_fuera_del_paquete,No referenciado en el ensamblaje activo; no implica pieza ajena al proyecto
+Ensamblaje 4.SLDASM,incluir,Referencia presente en BOM jerarquica
+Ensamblaje 5.SLDASM,reservar_fuera_del_paquete,No referenciado en el ensamblaje activo; no implica pieza ajena al proyecto
+Ensamblaje de mando.SLDASM,incluir,Referencia presente en BOM jerarquica
+Ensamblaje1.SLDASM,incluir,Referencia presente en BOM jerarquica
+Ensamblaje3.SLDASM,incluir,Referencia presente en BOM jerarquica
+LCD (2).SLDASM,reservar_fuera_del_paquete,No referenciado en el ensamblaje activo; no implica pieza ajena al proyecto
+LCD3.SLDPRT,incluir,Referencia presente en BOM jerarquica
+LLANTA.SLDPRT,incluir,Referencia presente en BOM jerarquica
+Lampara Indicadora 2.SLDPRT,incluir,Referencia presente en BOM jerarquica
+Lampara Indicadora.SLDPRT,incluir,Referencia presente en BOM jerarquica
+Manguera2.SLDPRT,reservar_fuera_del_paquete,No referenciado en el ensamblaje activo; no implica pieza ajena al proyecto
+Pieza1.SLDPRT,reservar_fuera_del_paquete,No referenciado en el ensamblaje activo; no implica pieza ajena al proyecto
+Pieza2.SLDPRT,reservar_fuera_del_paquete,No referenciado en el ensamblaje activo; no implica pieza ajena al proyecto
+Pieza3.SLDPRT,reservar_fuera_del_paquete,No referenciado en el ensamblaje activo; no implica pieza ajena al proyecto
+Pieza4.SLDPRT,incluir,Referencia presente en BOM jerarquica
+Pieza5.SLDPRT,incluir,Referencia presente en BOM jerarquica
+Pieza6.SLDPRT,incluir,Referencia presente en BOM jerarquica
+TAPA 2.SLDPRT,reservar_fuera_del_paquete,No referenciado en el ensamblaje activo; no implica pieza ajena al proyecto
+TAPA 3.SLDPRT,reservar_fuera_del_paquete,No referenciado en el ensamblaje activo; no implica pieza ajena al proyecto
+TAPA DE BASE F.SLDPRT,incluir,Referencia presente en BOM jerarquica
+TAPA FINAL DE BASE.SLDPRT,incluir,Referencia presente en BOM jerarquica
+TAPA.SLDPRT,reservar_fuera_del_paquete,No referenciado en el ensamblaje activo; no implica pieza ajena al proyecto
+TORNILLO DE LLANTA.SLDPRT,incluir,Referencia presente en BOM jerarquica
+Tornillo.SLDPRT,reservar_fuera_del_paquete,No referenciado en el ensamblaje activo; no implica pieza ajena al proyecto
+Ventana.SLDPRT,incluir,Referencia presente en BOM jerarquica
+banana hembra.SLDASM,reservar_fuera_del_paquete,No referenciado en el ensamblaje activo; no implica pieza ajena al proyecto
+base de circuito.SLDPRT,incluir,Referencia presente en BOM jerarquica
+bomba de agua.SLDASM,reservar_fuera_del_paquete,No referenciado en el ensamblaje activo; no implica pieza ajena al proyecto
+bomba de agua.SLDPRT,reservar_fuera_del_paquete,No referenciado en el ensamblaje activo; no implica pieza ajena al proyecto
+cinturon.SLDPRT,reservar_fuera_del_paquete,No referenciado en el ensamblaje activo; no implica pieza ajena al proyecto
+cople 1.SLDPRT,incluir,Referencia presente en BOM jerarquica
+cople 3.SLDPRT,reservar_fuera_del_paquete,No referenciado en el ensamblaje activo; no implica pieza ajena al proyecto
+cople.SLDASM,reservar_fuera_del_paquete,No referenciado en el ensamblaje activo; no implica pieza ajena al proyecto
+cople2.SLDPRT,incluir,Referencia presente en BOM jerarquica
+escape.SLDASM,reservar_fuera_del_paquete,No referenciado en el ensamblaje activo; no implica pieza ajena al proyecto
+maguera1001.SLDPRT,reservar_fuera_del_paquete,No referenciado en el ensamblaje activo; no implica pieza ajena al proyecto
+mando.SLDASM,reservar_fuera_del_paquete,No referenciado en el ensamblaje activo; no implica pieza ajena al proyecto
+manguera 1201.SLDPRT,incluir,Referencia presente en BOM jerarquica
+manguera 400000.SLDPRT,reservar_fuera_del_paquete,No referenciado en el ensamblaje activo; no implica pieza ajena al proyecto
+manguera.SLDPRT,reservar_fuera_del_paquete,No referenciado en el ensamblaje activo; no implica pieza ajena al proyecto
+manguera1000.SLDPRT,reservar_fuera_del_paquete,No referenciado en el ensamblaje activo; no implica pieza ajena al proyecto
+manguera1000000.SLDPRT,reservar_fuera_del_paquete,No referenciado en el ensamblaje activo; no implica pieza ajena al proyecto
+manguera2000.SLDPRT,reservar_fuera_del_paquete,No referenciado en el ensamblaje activo; no implica pieza ajena al proyecto
+manguera2001.SLDPRT,reservar_fuera_del_paquete,No referenciado en el ensamblaje activo; no implica pieza ajena al proyecto
+manguera2002.SLDPRT,incluir,Referencia presente en BOM jerarquica
+manguera3000.SLDPRT,reservar_fuera_del_paquete,No referenciado en el ensamblaje activo; no implica pieza ajena al proyecto
+manguera4000.SLDPRT,incluir,Referencia presente en BOM jerarquica
+manguera5000.SLDPRT,reservar_fuera_del_paquete,No referenciado en el ensamblaje activo; no implica pieza ajena al proyecto
+manguera6000.SLDPRT,incluir,Referencia presente en BOM jerarquica
+manguera7000.SLDPRT,incluir,Referencia presente en BOM jerarquica
+manguera8000.SLDPRT,incluir,Referencia presente en BOM jerarquica
+manija.SLDPRT,incluir,Referencia presente en BOM jerarquica
+modulo.SLDPRT,incluir,Referencia presente en BOM jerarquica
+modulo.STL,reservar_fuera_del_paquete,No referenciado en el ensamblaje activo; no implica pieza ajena al proyecto
+pichancha.SLDASM,reservar_fuera_del_paquete,No referenciado en el ensamblaje activo; no implica pieza ajena al proyecto
+pincha.SLDPRT,incluir,Referencia presente en BOM jerarquica
+porta mangueras.SLDPRT,incluir,Referencia presente en BOM jerarquica
+punta del tuvo.SLDPRT,reservar_fuera_del_paquete,No referenciado en el ensamblaje activo; no implica pieza ajena al proyecto
+push button.SLDASM,reservar_fuera_del_paquete,No referenciado en el ensamblaje activo; no implica pieza ajena al proyecto
+tapa de circuito.SLDPRT,incluir,Referencia presente en BOM jerarquica
+tornillo de cinturon.SLDPRT,incluir,Referencia presente en BOM jerarquica
+tubo rigido.SLDASM,reservar_fuera_del_paquete,No referenciado en el ensamblaje activo; no implica pieza ajena al proyecto
+tuerca de cinturon.SLDPRT,incluir,Referencia presente en BOM jerarquica
+tuvo de pichan.SLDPRT,incluir,Referencia presente en BOM jerarquica

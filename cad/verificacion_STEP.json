@@ -1,0 +1,12 @@
+{
+  "step_file": "Aguamiel_Extractor_Ensamblaje.step",
+  "valid_topology": true,
+  "solid_count": 73,
+  "bounding_box_mm": [
+    370.0,
+    786.01,
+    906.93
+  ],
+  "source": "Onshape export of Ensamblaje1 imported from user SolidWorks files",
+  "scope": "Static assembly geometry; no mate reconstruction, interference, strength or hydraulic validation"
+}
