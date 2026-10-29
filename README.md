@@ -30,3 +30,7 @@ The calculations are analytical scenarios, not measurements. The control program
 ## Rights
 
 No repository-wide license has been selected. Existing authorship and third-party rights remain applicable.
+
+## Review access
+
+This technical snapshot is publicly accessible to facilitate peer review. Continued public availability will be reassessed following the final editorial decision.
