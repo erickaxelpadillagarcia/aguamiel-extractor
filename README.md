@@ -34,3 +34,10 @@ No repository-wide license has been selected. Existing authorship and third-part
 ## Review access
 
 This technical snapshot is publicly accessible to facilitate peer review. Continued public availability will be reassessed following the final editorial decision.
+
+## Illustrative filling video
+
+- [Watch or download the 1080p MP4](simulation/flow_visualization/Aguamiel_Extractor_Filling_Animation_1080p.mp4).
+- [Animation description and limitations](simulation/flow_visualization).
+
+The video shows the upright extractor and an animated level in a 10 L reference container. It is an illustrative CAD animation with accelerated playback, not a CFD analysis or experimental validation.
