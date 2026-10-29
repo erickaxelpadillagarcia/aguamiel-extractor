@@ -1,0 +1,9 @@
+{
+  "custom_parts": 17,
+  "embedded_svgs": 47,
+  "layout_and_connections_preserved": true,
+  "sha256": "e01cb23c9c540ffde9ab36f43be6e68422e5ca63afb2d81cf537e21172fe0da6",
+  "opening_in_fritzing": "verified in Fritzing 1.0.6; breadboard and schematic",
+  "save_and_reopen": "verified; all 17 custom parts retained by native Save As",
+  "pcb_view": "invisible packaging placeholders only; no fabrication footprint or PCB design"
+}
